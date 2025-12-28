@@ -1,4 +1,4 @@
-# pN Backoffice - Starter Project
+# React Admin - Starter Project
 
 A modern React application built with TypeScript, Vite, and TanStack Query. This starter project provides a robust foundation for building scalable backoffice applications.
 
@@ -41,11 +41,7 @@ src/
 
 2.  **Install dependencies:**
     ```bash
-    npm install
-    # or
     pnpm install
-    # or
-    yarn install
     ```
 
 3.  **Environment Setup:**
